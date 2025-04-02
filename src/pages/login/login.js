@@ -1,4 +1,4 @@
-import { activeUserStorage, storeUsers } from "../../../src/utils/usersStorage.js";
+import { activeUserStorage, storeUsers } from "../../utils/usersStorage.js";
 import { ActiveCustomer} from "../../utils/createUsers.js";
 import { setUpShoppingCartEventListeners } from "../../components/shoppingCart/eventListeners.js";
 import { kundkorg } from "../../components/navbar/navbar.js";

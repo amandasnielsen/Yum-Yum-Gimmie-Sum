@@ -1,6 +1,6 @@
 /* import { activeUser } from "../../main";
  */
-import { ActiveCustomer } from "../utils/createUsers.js";
+import { ActiveCustomer } from "./createUsers.js";
 
 export const storeUsers = {
     localUsers: [],

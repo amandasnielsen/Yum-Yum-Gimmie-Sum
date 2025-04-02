@@ -1,4 +1,4 @@
-import { renderShoppingCart, quickContentShoppingCart } from "../../../src/components/shoppingCart/shoppingCart.js";
+import { renderShoppingCart, quickContentShoppingCart } from "./shoppingCart.js";
 import { activeUserStorage } from "../../utils/usersStorage.js";
 
 
