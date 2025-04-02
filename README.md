@@ -6,6 +6,8 @@ https://docs.google.com/document/d/1l4-0BFZXlDnd2ZyvI7J9-nQ_WoXL8poRebmC5JX-fi8/
 
 Hej och välkomna till Agile Avengers grupp-projekt!
 
+Amanda Strand Nielsen, Carl Wirén, Emilia Holmqvist, Rasmus Frolov och Daniel Fredriksson
+
 För att testa appen så se till att landingsite är launched från http://127.0.0.1:5500/index.html.
 Bortsett från en hårdkodad admin-acesss(email: admin, password: admin) så är databasen tom vid första körning. Om ni vill göra mer utöver att bara se menyn behöver ni därför registrera ett nytt konto.
 
